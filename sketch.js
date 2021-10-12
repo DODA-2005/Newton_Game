@@ -46,7 +46,7 @@ function setup(){
     newton.scale=0.25;
 
     //creating score
-    score=49
+    score=0
     
     
 }
